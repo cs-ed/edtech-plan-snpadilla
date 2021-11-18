@@ -83,5 +83,4 @@ Education in a Pandemic: The Disparate Impacts of Covid-19 on America's Students
 Alhambra Unified Virtual Academy: [https://www.ausd.us/apps/news/article/1469087](https://www.ausd.us/apps/news/article/1469087
 )
 
-Why Teach Coding? [https://www.iste.org/explore/In-the-classroom/6-reasons-for-coding-in-K-5-classrooms](https://www.iste.org/explore/In-the-classroom/6-reasons-for-coding-in-K-5-classrooms
-)
+Why Teach Coding? [https://www.iste.org/explore/In-the-classroom/6-reasons-for-coding-in-K-5-classrooms](https://www.iste.org/explore/In-the-classroom/6-reasons-for-coding-in-K-5-classrooms)

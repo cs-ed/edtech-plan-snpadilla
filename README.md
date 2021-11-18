@@ -75,11 +75,13 @@ All curriculum is provided virtually so that families do not need to make arrang
 
 ### References
 
-Ed-Data: Alhambra Unified School District: http://www.ed-data.org/district/Los-Angeles/Alhambra-Unified
+Ed-Data: Alhambra Unified School District: [http://www.ed-data.org/district/Los-Angeles/Alhambra-Unified](http://www.ed-data.org/district/Los-Angeles/Alhambra-Unified)
 
 Education in a Pandemic: The Disparate Impacts of Covid-19 on America's Students:
-https://www2.ed.gov/about/offices/list/ocr/docs/20210608-impacts-of-covid19.pdf
+[https://www2.ed.gov/about/offices/list/ocr/docs/20210608-impacts-of-covid19.pdf
+](https://www2.ed.gov/about/offices/list/ocr/docs/20210608-impacts-of-covid19.pdf)
+Alhambra Unified Virtual Academy: [https://www.ausd.us/apps/news/article/1469087](https://www.ausd.us/apps/news/article/1469087
+)
 
-Alhambra Unified Virtual Academy: https://www.ausd.us/apps/news/article/1469087
-
-Why Teach Coding? https://www.iste.org/explore/In-the-classroom/6-reasons-for-coding-in-K-5-classrooms
+Why Teach Coding? [https://www.iste.org/explore/In-the-classroom/6-reasons-for-coding-in-K-5-classrooms](https://www.iste.org/explore/In-the-classroom/6-reasons-for-coding-in-K-5-classrooms
+)

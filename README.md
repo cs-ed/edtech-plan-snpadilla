@@ -20,14 +20,16 @@ Currently, there are 4 sections in grade 6. Of the 4 classes, 3 of these classes
 
 ### Software Specifications
 
-Describe the software that you will use. Include software used for students as
-well as any software the instructor will use. This should include any software
-installed as well as any online services.
+*Netop
+*Google Suite for Education
+*scratch.mit.edu
+*code.org
+*PowerSchool
 
 ### Hardware Specifications
 
-Describe the hardware requirements for your class. Provide specific requirements
-wherever necessary.
+The students are each issued a district Chromebook with these specifications:
+*
 
 ### Application
 

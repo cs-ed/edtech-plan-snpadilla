@@ -23,14 +23,14 @@ Each middle school teacher has an option of teaching their own specialty for Uni
 
 ### Software Specifications
 
-1. Netop - this software is installed in each district issued Chromebook. Once it is enabled, it provides a live view of the student's screen. Should the teacher suspect off-task behavior, the teacher can access the student's screen and redirect any inappropriate behavior.
-2. Google Suite for Education - the teacher will load assignments and instructional material on to Google Classroom. Students will often use Google Slides and Google Forms to complete some assignments as well.
-3. [projectstem.org](projectstem.org) 
+1. [Netop](https://www.netop.com/) - this software is installed in each district issued Chromebook. Once it is enabled, it provides a live view of the student's screen. Should the teacher suspect off-task behavior, the teacher can access the student's screen and redirect any inappropriate behavior.
+2. [Google Suite for Education](https://edu.google.com/products/classroom/?gclid=CjwKCAiAs92MBhAXEiwAXTi254dITYXeRe_WOJkAHNEopV7PVug-0kP1JylS-UAWsjaimLy3ZxZz-BoCFzoQAvD_BwE&gclsrc=aw.ds#%2Fready-to-go) - the teacher will load assignments and instructional material on to Google Classroom. Students will often use Google Slides and Google Forms to complete some assignments as well.
+3. [projectstem.org](projectstem.org) - this will be the main website that the students will access. The website provides the lessons for the students. It also aids the teacher in managing the pacing of the curriculum and provides teacher resources in implementing the curriculum.
 4. [scratch.mit.edu](scratch.mit.edu) - the teacher will create user names and unique passwords on [scratch.mit.edu](scratch.mit.edu). Students will add their work to the correct studios so that the teacher can easily access completed work.
-5. [code.org](code.org) - After the second block of instruction provided by projectstem.org, 
-- PowerSchool
-- Zoom
-- Grade Transferer
+5. [code.org](code.org) - After the second block of instruction provided by projectstem.org, the students will join [code.org](code.org) to begin programming in Python.
+6. [PowerSchool](family.ausd.us) - this is the student information system (SIS) software used at AUSD. Families can check attendance, grades, and other records through this site. 
+7. [Zoom](zoom.us) - virtual students will receive daily synchronous instruction through Zoom. Zoom allows chats, screensharing, and breakout rooms for group work.
+8. [Grade Transferer](https://www.gradetransferer.com/) - this is a browser extension that "grabs" grades from sites such as Google Classroom and transfers them over to an SIS such as PowerSchool. It is a time saving tool for teachers.
 
 ### Hardware Specifications
 
@@ -40,7 +40,7 @@ The students are each issued a district HP Chromebook x360 G3 with these specifi
 - Processor: Intel Celeron N4100
 - Graphics: Intel UHD Graphics 600 (Integrated)
 - Storage: 32 GB
-- Memory: 4GB
+- Memory: 4 GB
 - Audio: HD Audio with dual speakers; Integrated microphone
 - Camera: 720p HD webcam; 5 MP rear camera
 - Keyboard: Full-sized, textured, island-style
@@ -48,11 +48,31 @@ The students are each issued a district HP Chromebook x360 G3 with these specifi
 - Battery life: Up to 11 hours and 30 minutes
 - Wireless LAN (WLAN): Intel Dual Band wireless-AC and Bluetooth 4.2 Combo (non-vPro)
 
+*Families can also request a hotspot if they demonstrate need of internet access.*
+
 The teacher is issued an HP 14" Probook Laptop with these specifications:
 
+- Operating System: Windows 10 Enterprise
+- Processor: Intel Core iT-8265U CPU @ 1.60 GHz
+- Graphics: Intel UHD Graphics 620
+- Storage: 256 GB
+- Memory: 8 GB
+- Audio: Integrated microphone (mono or dual-array); (2) Integrated stereo speakers
+- Camera: 720p HD HP Camera
+- Keyboard: Full-sized; spill resistant
+- Pointing devices: Clickpad with multi-touch gesture support
+- Wireless LAN (WLAN): Intel Dual Band Wireless-AC 9560 802.11ac (2x2) WLAN and Bluetooth 5 Combo, non-vPro
+- Ethernet: Realtek RTL8111HSH-CG 10/100/1000 GbE NIC
+
 Other tools provided for the teacher:
+
+- HP Z24f G3 External Monitor
+- 25' Gigabyte Ethernet Cable
+- ELMO TT-12W Document Camera
 - Digiroot Universal Stylus
 - FlexiSpot M2 Height-Adjustable Standing Desk Riser with Removable Keyboard Tray
+- 6.6' HDMI Cable
+- 3' Mini Display Port to HDMI Cable
 
 
 ### Application

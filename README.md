@@ -100,6 +100,7 @@ Ed-Data: Alhambra Unified School District: [http://www.ed-data.org/district/Los-
 Education in a Pandemic: The Disparate Impacts of Covid-19 on America's Students:
 [https://www2.ed.gov/about/offices/list/ocr/docs/20210608-impacts-of-covid19.pdf
 ](https://www2.ed.gov/about/offices/list/ocr/docs/20210608-impacts-of-covid19.pdf)
+
 Alhambra Unified Virtual Academy: [https://www.ausd.us/apps/news/article/1469087](https://www.ausd.us/apps/news/article/1469087
 )
 

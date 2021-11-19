@@ -23,8 +23,8 @@ Each middle school teacher has an option of teaching their own specialty for Uni
 
 ### Software Specifications
 
-- Netop
-- Google Suite for Education
+1. Netop - this software is installed in each district issued Chromebook. Once it is enabled, it provides a live view of the student's screen. Should the teacher suspect off-task behavior, the teacher can access the student's screen and redirect any inappropriate behavior.
+2. Google Suite for Education
 - scratch.mit.edu
 - code.org
 - PowerSchool

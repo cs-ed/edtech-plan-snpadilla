@@ -25,7 +25,7 @@ Each middle school teacher has an option of teaching their own specialty for Uni
 
 1. Netop - this software is installed in each district issued Chromebook. Once it is enabled, it provides a live view of the student's screen. Should the teacher suspect off-task behavior, the teacher can access the student's screen and redirect any inappropriate behavior.
 2. Google Suite for Education - the teacher will load assignments and instructional material on to Google Classroom. Students will often use Google Slides and Google Forms to complete some assignments as well.
-3. projectstem.org 
+3. [projectstem.org](projectstem.org) 
 4. [scratch.mit.edu](scratch.mit.edu) - the teacher will create user names and unique passwords on [scratch.mit.edu](scratch.mit.edu). Students will add their work to the correct studios so that the teacher can easily access completed work.
 5. [code.org](code.org) - After the second block of instruction provided by projectstem.org, 
 - PowerSchool

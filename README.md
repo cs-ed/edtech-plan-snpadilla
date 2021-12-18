@@ -97,17 +97,18 @@ All curriculum is provided virtually so that families do not need to make arrang
 
 Introduction to Computer Science will have an impact in the area of inclusive pedagogy. Removing the barriers of the digital divide, students of all income levels will have access to a high quality experience in their path to learning the basic of computer science. In addition, the teacher will be considerate when choosing items to explore which can have gender biases. Students, whether female, male or nonbinary will not be told to join a group based on their gender preference or based on the stereotypical topics that have assigned to each gender in the past. For example, when creating a sports-themes project, there will not be an expectation that only boys will choose football.
 
-Lastly, Introduction to Computer Science will prepare the middle school student their future. More than 51 percent of STEM jobs are projected to be in computer-science related fields ([projectstem.org](https://projectstem.org/about)). for higher level courses in math and computer science at the high school level.
+Lastly, Introduction to Computer Science will prepare the middle school student for their future. More than 51 percent of STEM jobs are projected to be in computer-science related fields ([projectstem.org](https://projectstem.org/about)). Therefore, students with a background of computer science will have the 21st century skills vital for the future labor force. Middle school students studying computer science will develop skills necessary to succeed in high school, such as Computer Science A AP since according to the [Alhambra High School Science Department](https://sites.google.com/ausd.us/ahs-science/home/courses), Computer Science A AP entails "problem solving, design strategies and methodologies, organization of data (data structures), approaches to processing data (algorithms), analysis of potential solutions and the ethical and social implications of computing."  
 
 ### References
+
+Alhambra Unified Virtual Academy: [https://www.ausd.us/apps/news/article/1469087](https://www.ausd.us/apps/news/article/1469087)
+
+Computer Science A AP: [Alhambra High School Science Department](https://sites.google.com/ausd.us/ahs-science/home/courses)
 
 Ed-Data: Alhambra Unified School District: [http://www.ed-data.org/district/Los-Angeles/Alhambra-Unified](http://www.ed-data.org/district/Los-Angeles/Alhambra-Unified)
 
 Education in a Pandemic: The Disparate Impacts of Covid-19 on America's Students:
 [https://www2.ed.gov/about/offices/list/ocr/docs/20210608-impacts-of-covid19.pdf
 ](https://www2.ed.gov/about/offices/list/ocr/docs/20210608-impacts-of-covid19.pdf)
-
-Alhambra Unified Virtual Academy: [https://www.ausd.us/apps/news/article/1469087](https://www.ausd.us/apps/news/article/1469087
-)
 
 Why Teach Coding? [https://www.iste.org/explore/In-the-classroom/6-reasons-for-coding-in-K-5-classrooms](https://www.iste.org/explore/In-the-classroom/6-reasons-for-coding-in-K-5-classrooms)
